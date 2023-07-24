@@ -1,4 +1,6 @@
 div{background-color: brown;
 padding: 30px;
 margin: 10px;
+border-image-width: 10px;
+image-orientation: initial 20px;
 }
